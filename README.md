@@ -1,1 +1,7 @@
-# qwert1
+# code
+import pandas as pd
+import numpy as np
+import matplotlib pyplot as plt
+%matplotlib inline
+
+import warnings.filterwarnings('ignore')
